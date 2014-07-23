@@ -1,5 +1,3 @@
-# arduino projects
-
 Several arduino projects I played with to gain some more electrical experience and who knows one day it will help me to open the curtains depending on the light..
 
 ## specifications
