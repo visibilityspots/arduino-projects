@@ -25,3 +25,5 @@ If everything went well you should see an output according to this:
 	IP Address: X.X.X.X
 	signal strength (RSSI):-66 dBm
 ```
+
+I successfully tested this piece of code with an arduino Leonardo and a Wifi shield model R3
