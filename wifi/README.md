@@ -26,4 +26,6 @@ If everything went well you should see an output according to this:
 	signal strength (RSSI):-66 dBm
 ```
 
+To close the serial connection you have to use the key combination [ctrl-a] [ctrl-x]
+
 I successfully tested this piece of code with an arduino Leonardo and a Wifi shield model R3
